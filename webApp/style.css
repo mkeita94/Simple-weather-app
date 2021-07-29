@@ -1,0 +1,38 @@
+.weather-component {
+  display: inline-block;
+  width: 150px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin: auto;
+}
+.weather-component img {
+  width: 100px;
+  height: 80px;
+}
+#btn1-style,
+#btn2-style,
+#btn3-style {
+  padding: 5px;
+  width: 150px;
+}
+#btn1-style {
+  background-color: royalblue;
+}
+#btn2-style {
+  background-color: green;
+}
+#btn3-style {
+  background-color: red;
+}
+.button-list h1 {
+  text-align: center;
+}
+.all-buttons {
+  display: inline-block;
+  margin-left: 400px;
+}
+.cold-style,
+.warm-style,
+.hot-style {
+  display: none;
+}
